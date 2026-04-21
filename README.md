@@ -22,3 +22,6 @@ Open the notebook in Google Colab and run all cells.
 
 ## Dataset
 Telco Customer Churn Dataset
+
+## Open in Colab
+[View the project on Google Colab](https://colab.research.google.com/drive/1wytaPtT1Y_zcYDKsQNotK7fx1A84ZJx4?usp=sharing)
